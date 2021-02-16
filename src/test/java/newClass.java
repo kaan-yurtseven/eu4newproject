@@ -3,5 +3,6 @@ public class newClass {
         System.out.println("hello");
         // come onn
         // lets start baby
+        //new idea
     }
 }
